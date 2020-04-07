@@ -1,0 +1,7 @@
+
+production
+__pycache__
+.idea
+env
+node_modules
+yarn-error.log
